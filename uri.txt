@@ -1,0 +1,34 @@
+{
+	"name":"NFT General #1",
+	"symbol":"CHAING",
+	"description":"NFT granted for reaching the first impact milestone",
+	"seller_fee_basis_points":20,
+	"external_url":"",
+	"edition":"Class of 2023",
+	"background_color":"696969",
+	"attributes":[
+		{
+			"display_type":"number",
+			"trait_type":"sequence",
+			"value":1
+		}
+	],
+	"properties":
+	{
+		"category":"image",
+		"creators":[
+			{
+				"address":"qM1bJMbdwqtJGz8R5hQmw86xooCvfkjpnzUXqbJxbTT",
+				"share":100
+			}
+		],
+		"files":[
+			{
+				"uri":"https://v2.akord.com/public/vaults/active/q-oSpcUhwHDqZTVkpWzomLwjryM9hessV2hBhMl1EIo/gallery#public/38452c30-51e9-40fb-9713-6d8c8b04901f",
+				"type":"image/jpg"
+			}
+		]
+	},
+	"image":"https://v2.akord.com/public/vaults/active/q-oSpcUhwHDqZTVkpWzomLwjryM9hessV2hBhMl1EIo/gallery#public/38452c30-51e9-40fb-9713-6d8c8b04901f"
+}
+
