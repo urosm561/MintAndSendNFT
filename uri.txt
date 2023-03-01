@@ -13,22 +13,6 @@
 			"value":1
 		}
 	],
-	"properties":
-	{
-		"category":"image",
-		"creators":[
-			{
-				"address":"qM1bJMbdwqtJGz8R5hQmw86xooCvfkjpnzUXqbJxbTT",
-				"share":100
-			}
-		],
-		"files":[
-			{
-				"uri":"https://github.com/urosm561/NFTSmartContractURI/blob/main/medalja.jpg",
-				"type":"image/jpg"
-			}
-		]
-	},
 	"image":"https://github.com/urosm561/NFTSmartContractURI/blob/main/medalja.jpg"
 }
 
