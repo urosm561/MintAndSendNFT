@@ -6,5 +6,5 @@
 	"external_url":"",
 	"edition":"Class of 2023",
 	"background_color":"696969",
-	"image":"https://raw.githubusercontent.com/urosm561/NFTSmartContractURI/main/medalja.jpg?token=GHSAT0AAAAAAB6PBN4FSV2SSVOMIRMHRHUCY77MB5A"
+	"image":"https://raw.githubusercontent.com/urosm561/NFTSmartContractURI/main/medalja.jpg"
 }
