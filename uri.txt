@@ -24,11 +24,11 @@
 		],
 		"files":[
 			{
-				"uri":"https://v2.akord.com/public/vaults/active/q-oSpcUhwHDqZTVkpWzomLwjryM9hessV2hBhMl1EIo/gallery#public/38452c30-51e9-40fb-9713-6d8c8b04901f",
+				"uri":"https://github.com/urosm561/NFTSmartContractURI/blob/main/medalja.jpg",
 				"type":"image/jpg"
 			}
 		]
 	},
-	"image":"https://v2.akord.com/public/vaults/active/q-oSpcUhwHDqZTVkpWzomLwjryM9hessV2hBhMl1EIo/gallery#public/38452c30-51e9-40fb-9713-6d8c8b04901f"
+	"image":"https://github.com/urosm561/NFTSmartContractURI/blob/main/medalja.jpg"
 }
 
