@@ -2,5 +2,5 @@
 	"name":"NFT General #1",
 	"symbol":"CHAING",
 	"description":"NFT granted for reaching the first impact milestone",
-	"image":"https://raw.githubusercontent.com/urosm561/NFTSmartContractURI/main/medalja.jpg"
+	"image":"https://neretvakomerc.com/wp-content/uploads/2017/12/903.png"
 }
